@@ -16,9 +16,9 @@ CamoPatch-website/
 ├── backend/
 │   ├── saved_log/
 │   ├── src/
-│   │   ├── api.py
-│   │   ├── best_f1.pt
-│   │   └── main.py
+│   │── api.py
+│   │── best_f1.pt
+│   │── main.py
 │   └── requirements.txt
 └── frontend/
 ```
